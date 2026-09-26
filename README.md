@@ -1,3 +1,5 @@
+<p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
+
 <p align="center"><img src="assets/leaderboard.png" alt="Slayer - leaderboard baseline'u" width="700"/></p>
 
 <h1 align="center">Slayer</h1>
